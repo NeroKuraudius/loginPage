@@ -15,8 +15,11 @@
 1. Clone該專案至本地
 2. 以npm安裝所需套件(詳見下方使用工具)
 3. 在終端機上輸入
+
 `node app.js`
-4. 如出現「Succeed in listening on http://localhost:3000」表示啟動成功，請進入該網址
+
+4. 如出現下列訊息表示啟動成功，請進入該網址
+`Succeed in listening on http://localhost:3000`
 
 
 # 使用工具
